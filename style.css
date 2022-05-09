@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(#d47dbe 0%, #7dd4c1 100%);
+}
+h1{
+    color: blueviolet;
+}
+#text_area
+{
+    width: 300px;
+}
+#img_1{
+    height: 240px;
+    width: 150px;
+}
+#img_2{
+    height: 240px;
+    width: 150px;
+}
+#img_3{
+    height: 240px;
+    width: 150px;
+}
